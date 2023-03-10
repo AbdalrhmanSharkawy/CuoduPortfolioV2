@@ -1,0 +1,3 @@
+Cuodu Portfolio V2 is a modern website designed to showcase the portfolio of its creator. It is built using modern web technologies such as HTML, CSS, and JavaScript, and features a clean and minimalist design that emphasizes the showcased work. The website also includes features such as responsive design and animations to enhance the user experience.
+
+The website's open-source code is available on GitHub, allowing other developers to study and build upon the existing code. The codebase is built using popular frameworks such as Bootstrap and jQuery, and is written in HTML, CSS, and JavaScript. The open-source nature of the code makes it a valuable resource for anyone looking to learn web development or build their own portfolio website.
